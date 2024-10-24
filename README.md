@@ -2,7 +2,7 @@
 
 I'm **Mario Alberto González Méndez**, a passionate **Computer Science and Technology** student at **Tecnológico de Monterrey**, graduating in **December 2025**. My areas of expertise range from **software development** to **virtual reality**, with a strong focus on **AI**, **cloud technologies**, and **project management**. I'm excited about building innovative solutions and collaborating on challenging projects.
 
-- 🔭 I’m currently working on a **team project for NEORIS**, where we're redesigning the **software presales process** through a web app using **React Native, Golang, MySQL, Oracle Cloud**, and **Docker**. We've integrated **AI (Llama 3.1)**, improving presales deliverables by 33%.
+- 🔭 I’m currently working in class on a **team project for NEORIS**, where we're redesigning the **software presales process** through a web app using **React Native, Golang, MySQL, Oracle Cloud**, and **Docker**. We've integrated **AI (Llama 3.1)**, improving presales deliverables by 33%.
   
 - 🌱 I’m currently learning more about **advanced AI models** (RAG, LangChain), **cloud computing**, and **machine learning** to apply them in real-world applications.
   
